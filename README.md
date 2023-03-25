@@ -7,5 +7,5 @@ The solutions to almost all exerices should be present. I wrote them myself as a
 A few notes: 
 - Schematics in the `images` directory were made using https://draw.io/
 - Questions involving HDL programming were all answered using Verilog.   
-- `iverilog` was used as a Verilog compiler. It can installed from this repo: https://github.com/steveicarus/iverilog
-- GTKWave was used to display the Verilog simulation output signals for debugging, which was especially useful for Chapter 7. It can installed from: https://gtkwave.sourceforge.net/
+- `iverilog` was used as a Verilog compiler. It can be installed from this repo: https://github.com/steveicarus/iverilog
+- GTKWave was used to display the Verilog simulation output signals for debugging, which was especially useful for Chapter 7. It can be installed from: https://gtkwave.sourceforge.net/
